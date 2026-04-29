@@ -57,7 +57,7 @@ This project analyzes sales performance, profitability, customer behavior, and p
 
 ## 📸 Sample Visualizations
 
-![Sales by Region](images/sales_by_region.png)  
+![Sales by Region](images/sales_region.png)  
 ![Profit by Category](images/Top Loss-Making Sub-Categories.png)  
 
 ---

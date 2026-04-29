@@ -1,6 +1,16 @@
 # 📊 Sales & Profitability Analysis
 
-## 📌 Project Overview
+
+## 📌 Executive Summary
+- Sales are growing steadily with seasonal peaks  
+- Profitability is inconsistent across categories  
+- Technology drives most profits, while Furniture underperforms  
+- Several sub-categories generate consistent losses  
+- Profit is weakly correlated with sales volume, indicating pricing and cost inefficiencies  
+
+👉 Strategic focus should shift from increasing sales to improving margin efficiency  
+
+## 📍 Project Overview
 This project analyzes sales performance across regions, categories, and customer segments to identify key drivers of profitability and uncover hidden inefficiencies.
 
 The analysis combines:

@@ -77,6 +77,10 @@ The goal is to move beyond descriptive analytics and provide actionable recommen
 ![Sales by Region](images/sales_region.png)  
 ![Profit by Category](images/profit_category.png)  
 
+
+## 🔍 Keywords
+Data Analysis, Sales Analysis, Python, Pandas, Plotly, EDA, Business Analytics, Data Visualization, Statistical Analysis
+
 ---
 
 ## 👤 Author

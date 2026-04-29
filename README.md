@@ -66,7 +66,7 @@ The goal is to move beyond descriptive analytics and provide actionable recommen
 ---
 
 ## 📈 View Full Report
-👉 **Explore the complete analysis with visuals, insights, and code::**
+👉 **Explore the complete analysis with visuals, insights, and code:**
 
 (https://htmlpreview.github.io/?https://github.com/irfankafait/sales-analysis-project/blob/main/reports/sales_analysis_project.html)
 
